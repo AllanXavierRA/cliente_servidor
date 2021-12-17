@@ -1,0 +1,12 @@
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\bin\Debug\datos.dll.config
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\bin\Debug\datos.dll
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\bin\Debug\datos.pdb
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\bin\Debug\EntityFramework.dll
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\bin\Debug\EntityFramework.xml
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\obj\Debug\datos.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\obj\Debug\datos.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\obj\Debug\datos.csproj.CopyComplete
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\obj\Debug\datos.dll
+C:\Users\Andres\source\repos\WebServiceAndresToledo\datos\obj\Debug\datos.pdb
